@@ -1,9 +1,3 @@
-# React + Vite
+this is my netlify link, hopefully this shows up and works 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React-puppy
+https://app.netlify.com/sites/visionary-bienenstitch-071c6a/deploys/65dea0c41e8e3281f2237366
